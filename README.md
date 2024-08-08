@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Sourav Acharjya and I'm a Full-Stack Developer, from Kolkata</h2>
+<h2 align="left">Hello 👋! My name is Sourav Acharjya and I'm a Full-Stack Developer, from Kolkata.</h2>
 
 ###
 
@@ -9,6 +9,7 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
